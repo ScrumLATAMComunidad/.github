@@ -4,6 +4,7 @@
   "repoType": "github",
   "repoHost": "https://github.com",
   "files": [
+    "profile/README.md",
     "README.md"
   ],
   "imageSize": 75,
